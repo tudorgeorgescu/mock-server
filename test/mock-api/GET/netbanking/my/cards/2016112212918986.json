@@ -1,0 +1,63 @@
+{
+    "alias": "Mihai Sandu Ionut",
+    "balance": {
+        "value": 454622,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "characteristic": "MAIN",
+    "expiryDate": "2018-11-22",
+    "id": "2016112212918986",
+    "imageData": {
+        "imageKey": "543029",
+        "blackBackground": false
+    },
+    "installmentDueDate": "2016-12-27",
+    "limit": {
+        "value": 500000,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "mainAccount": {
+        "id": "201611226448510",
+        "accountno": {
+            "iban": "RO69RNCB0591007510060001"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "minimalMonthlyAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "number": "543029XXXXXX0100",
+    "outstandingAmount": {
+        "value": 205784,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "outstandingMonthlyAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "overDueAmount": {
+        "value": 205784,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "overLimitAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "owner": "Barothi Aniko",
+    "productCode": "12011",
+    "productI18N": "BCR Gold MasterCard in EUR",
+    "provider": "BCR",
+    "repaymentRate": 9,
+    "sequenceNumber": "1",
+    "state": "LOCKED",
+    "type": "CREDIT",
+    "validFromDate": "2016-11-22"
+}
