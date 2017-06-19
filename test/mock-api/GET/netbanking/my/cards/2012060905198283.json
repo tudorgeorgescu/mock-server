@@ -1,0 +1,31 @@
+{
+    "alias": "testalias",
+    "balance": {
+        "value": 186049,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "characteristic": "MAIN",
+    "expiryDate": "2019-01-31",
+    "id": "2012060905198283",
+    "imageData": {
+        "imageKey": "676164",
+        "blackBackground": false
+    },
+    "mainAccount": {
+        "id": "200710150029578",
+        "accountno": {
+            "iban": "RO13RNCB0293007510060001"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "number": "676164XXXXXX2342",
+    "owner": "Barothi Aniko",
+    "productCode": "12218",
+    "productI18N": "MAESTRO",
+    "provider": "BCR",
+    "sequenceNumber": "1",
+    "state": "LOCKED",
+    "type": "BANK_CARD",
+    "validFromDate": "2015-12-23"
+}
