@@ -1,3 +1,80 @@
 {
-  "answer": "Hello Contacts!"
+    "contacts": [
+        {
+            "id": "5798526",
+            "address": {
+                "type": "SECONDARY_RESIDENCE",
+                "street": "Maslinului8",
+                "streetNumber": "379",
+                "buildingApartment": "3",
+                "postBox": "A87",
+                "zipCode": "527065",
+                "city": "CONSTANTIN DAICOVICIU",
+                "country": "RO",
+                "flags": [
+                    "mailingAddress"
+                ],
+                "ro-streetType": "Fundacul",
+                "ro-county": "CARAS-SEVERIN",
+                "ro-buildingName": "3",
+                "ro-stair": "A87",
+                "ro-floor": "4",
+                "ro-apartment": "2"
+            },
+            "flags": [
+                "editable"
+            ],
+            "type": "ADDRESS"
+        },
+        {
+            "id": "694301",
+            "address": {
+                "type": "PERMANENT_RESIDENCE",
+                "street": "-",
+                "streetNumber": "379",
+                "buildingApartment": "3",
+                "zipCode": "527065",
+                "city": "CATALINA",
+                "country": "RO",
+                "flags": [
+                    "mainContact"
+                ],
+                "ro-streetType": "Strada",
+                "ro-county": "COVASNA",
+                "ro-buildingName": "3",
+                "ro-apartment": "2"
+            },
+            "type": "ADDRESS"
+        },
+        {
+            "id": "13627526",
+            "email": {
+                "type": "PRIVATE",
+                "typeI18N": "Private",
+                "email": "orgsit.testare.rm@bcr.ro"
+            },
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "type": "EMAIL"
+        },
+        {
+            "id": "3690272",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "phone": {
+                "type": "PRIVATE",
+                "typeI18N": "Private",
+                "countryCallingCode": "+4",
+                "phoneNumber": "0742851970",
+                "flags": [
+                    "mobile"
+                ]
+            },
+            "type": "PHONE"
+        }
+    ]
 }
