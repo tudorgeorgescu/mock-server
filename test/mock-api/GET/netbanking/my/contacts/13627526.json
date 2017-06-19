@@ -1,0 +1,13 @@
+{
+    "id": "13627526",
+    "email": {
+        "type": "PRIVATE",
+        "typeI18N": "Private",
+        "email": "orgsit.testare.rm@bcr.ro"
+    },
+    "flags": [
+        "editable",
+        "deletable"
+    ],
+    "type": "EMAIL"
+}
