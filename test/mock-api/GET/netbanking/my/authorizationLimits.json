@@ -1,3 +1,37 @@
 {
-  "answer": "Hello Limits!"
+    "limits": [
+        {
+            "id": "12",
+            "authorizationType": "E_DEVICE",
+            "channelId": "NETBK",
+            "applicationId": "UNKNOWN",
+            "dailyLimit": {
+                "value": 15000000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        },
+        {
+            "id": "9",
+            "authorizationType": "E_DEVICE",
+            "channelId": "CC",
+            "applicationId": "UNKNOWN",
+            "dailyLimit": {
+                "value": 7500000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        },
+        {
+            "id": "57",
+            "authorizationType": "E_DEVICE",
+            "channelId": "GEORGE",
+            "applicationId": "UNKNOWN",
+            "dailyLimit": {
+                "value": 15000000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        }
+    ]
 }
