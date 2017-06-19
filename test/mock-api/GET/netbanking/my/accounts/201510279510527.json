@@ -1,0 +1,57 @@
+{
+    "id": "201510279510527",
+    "accountno": {
+        "bic": "RNCBROB0",
+        "number": "201510279510527"
+    },
+    "type": "LOAN",
+    "subtype": "LOAN_ACCOUNT",
+    "product": "MAXICREDIT SUPER BCR",
+    "productI18N": "MAXICREDIT - EUR",
+    "description": "BAROTHI ANIKO",
+    "alias": "Credit de nevperscu ipot",
+    "balance": {
+        "value": 118354,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "disposable": {
+        "value": 118354,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "creditInterestRate": 0,
+    "debitInterestRate": 5.95,
+    "loan": {
+        "loanAmount": {
+            "value": 153479,
+            "precision": 2,
+            "currency": "EUR"
+        },
+        "maturityDate": "2017-11-06",
+        "remainingLoanAmount": {
+            "value": 118354,
+            "precision": 2,
+            "currency": "EUR"
+        },
+        "nextRateAmount": {
+            "value": 6543,
+            "precision": 2,
+            "currency": "EUR"
+        },
+        "installmentFrequency": "MONTHLY",
+        "nextRateDate": "2017-07-06",
+        "interestRateToDate": "2017-07-06",
+        "overdueDebt": {
+            "value": 0,
+            "precision": 2,
+            "currency": "EUR"
+        }
+    },
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "standingOrderNotAllowed"
+    ]
+}
