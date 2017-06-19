@@ -1,0 +1,11 @@
+{
+    "id": "57",
+    "authorizationType": "E_DEVICE",
+    "channelId": "GEORGE",
+    "applicationId": "UNKNOWN",
+    "dailyLimit": {
+        "value": 15000000,
+        "precision": 2,
+        "currency": "EUR"
+    }
+}
