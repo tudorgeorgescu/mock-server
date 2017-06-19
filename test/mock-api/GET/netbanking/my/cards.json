@@ -1,3 +1,692 @@
 {
-  "answer": "Hello Cards!"
+    "pageCount": 1,
+    "pageNumber": 0,
+    "pageSize": 13,
+    "cards": [
+        {
+            "id": "2017013013720669",
+            "owner": "Barothi Aniko",
+            "number": "421144XXXXXX0500",
+            "productCode": "1504",
+            "productI18N": "VISA Clasic EUR",
+            "expiryDate": "2019-01-30",
+            "validFromDate": "2017-01-30",
+            "balance": {
+                "value": 370349,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "200711070034569",
+                "accountno": {
+                    "iban": "RO83RNCB0293007510060002"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "BANK_CARD",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "421144",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016091912083416",
+            "alias": "testalias",
+            "owner": "Stamate Alexandru",
+            "number": "517045XXXXXX1498",
+            "productCode": "12218",
+            "productI18N": "MasterCard Gold",
+            "expiryDate": "2019-09-30",
+            "validFromDate": "2016-09-20",
+            "balance": {
+                "value": 186049,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "200710150029578",
+                "accountno": {
+                    "iban": "RO13RNCB0293007510060001"
+                },
+                "holderName": "Stamate Alexandru"
+            },
+            "type": "BANK_CARD",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "517045",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2012060905198283",
+            "alias": "testalias",
+            "owner": "Barothi Aniko",
+            "number": "676164XXXXXX2342",
+            "productCode": "12218",
+            "productI18N": "MAESTRO",
+            "expiryDate": "2019-01-31",
+            "validFromDate": "2015-12-23",
+            "balance": {
+                "value": 186049,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "200710150029578",
+                "accountno": {
+                    "iban": "RO13RNCB0293007510060001"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "BANK_CARD",
+            "provider": "BCR",
+            "state": "LOCKED",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "676164",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2017010313408356",
+            "owner": "Barothi Aniko",
+            "number": "546805XXXXXX0888",
+            "productCode": "12217",
+            "productI18N": "MasterCard Paypass Zambet",
+            "expiryDate": "2019-01-03",
+            "validFromDate": "2017-01-03",
+            "balance": {
+                "value": 134063,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "201701036450505",
+                "accountno": {
+                    "iban": "RO42RNCB0591007510060002"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "BANK_CARD",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "null",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016112212919004",
+            "alias": "Mihai Sandu Ionut",
+            "owner": "Mihai Sandu Ionut",
+            "number": "543029XXXXXX0103",
+            "productCode": "12011",
+            "productI18N": "BCR Gold MasterCard in EUR",
+            "expiryDate": "2018-11-22",
+            "validFromDate": "2016-11-22",
+            "balance": {
+                "value": 454622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "limit": {
+                "value": 500000,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "installmentDueDate": "2016-12-27",
+            "repaymentRate": 9,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "overDueAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "201611226448510",
+                "accountno": {
+                    "iban": "RO69RNCB0591007510060001"
+                },
+                "holderName": "Mihai Sandu Ionut"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "543029",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016112212918998",
+            "alias": "Mihai Sandu Ionut",
+            "owner": "Graur Alexandru Gabriel",
+            "number": "543029XXXXXX0102",
+            "productCode": "12011",
+            "productI18N": "BCR Gold MasterCard in EUR",
+            "expiryDate": "2018-11-22",
+            "validFromDate": "2016-11-22",
+            "balance": {
+                "value": 454622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "limit": {
+                "value": 500000,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "installmentDueDate": "2016-12-27",
+            "repaymentRate": 9,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "overDueAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "201611226448510",
+                "accountno": {
+                    "iban": "RO69RNCB0591007510060001"
+                },
+                "holderName": "Graur Alexandru Gabriel"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "543029",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016112212918986",
+            "alias": "Mihai Sandu Ionut",
+            "owner": "Barothi Aniko",
+            "number": "543029XXXXXX0100",
+            "productCode": "12011",
+            "productI18N": "BCR Gold MasterCard in EUR",
+            "expiryDate": "2018-11-22",
+            "validFromDate": "2016-11-22",
+            "balance": {
+                "value": 454622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "limit": {
+                "value": 500000,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "installmentDueDate": "2016-12-27",
+            "repaymentRate": 9,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "overDueAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "201611226448510",
+                "accountno": {
+                    "iban": "RO69RNCB0591007510060001"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "LOCKED",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "543029",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016112212918989",
+            "alias": "Mihai Sandu Ionut",
+            "owner": "Ivan Florina",
+            "number": "543029XXXXXX0104",
+            "productCode": "12011",
+            "productI18N": "BCR Gold MasterCard in EUR",
+            "expiryDate": "2018-11-22",
+            "validFromDate": "2016-11-22",
+            "balance": {
+                "value": 454622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "limit": {
+                "value": 500000,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "installmentDueDate": "2016-12-27",
+            "repaymentRate": 9,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "overDueAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "201611226448510",
+                "accountno": {
+                    "iban": "RO69RNCB0591007510060001"
+                },
+                "holderName": "Ivan Florina"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "543029",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016112212918993",
+            "alias": "Mihai Sandu Ionut",
+            "owner": "Sarbu Florentina Georgiana",
+            "number": "543029XXXXXX0101",
+            "productCode": "12011",
+            "productI18N": "BCR Gold MasterCard in EUR",
+            "expiryDate": "2018-11-22",
+            "validFromDate": "2016-11-22",
+            "balance": {
+                "value": 454622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "limit": {
+                "value": 500000,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "installmentDueDate": "2016-12-27",
+            "repaymentRate": 9,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "overDueAmount": {
+                "value": 205784,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "mainAccount": {
+                "id": "201611226448510",
+                "accountno": {
+                    "iban": "RO69RNCB0591007510060001"
+                },
+                "holderName": "Sarbu Florentina Georgiana"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "LOCKED",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "543029",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016120713066881",
+            "owner": "Ivan Florina",
+            "number": "510160XXXXXX0102",
+            "productCode": "12025",
+            "productI18N": "Bun de Plata BCR Standard MasterCard",
+            "expiryDate": "2018-12-07",
+            "validFromDate": "2016-12-07",
+            "balance": {
+                "value": -138525,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "limit": {
+                "value": 140000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 133195,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "installmentDueDate": "2016-11-24",
+            "repaymentRate": 12.19,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "overDueAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "201112023928984",
+                "accountno": {
+                    "iban": "RO19RNCB0318007510060001"
+                },
+                "holderName": "Ivan Florina"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "510160",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2011120203829352",
+            "owner": "Barothi Aniko",
+            "number": "510160XXXXXX1132",
+            "productCode": "12025",
+            "productI18N": "Bun de Plata BCR Standard MasterCard",
+            "expiryDate": "2018-07-31",
+            "validFromDate": "2013-07-02",
+            "balance": {
+                "value": -138525,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "limit": {
+                "value": 140000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 133195,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "installmentDueDate": "2016-11-24",
+            "repaymentRate": 12.19,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "overDueAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "201112023928984",
+                "accountno": {
+                    "iban": "RO19RNCB0318007510060001"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "510160",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2016120613066868",
+            "owner": "Barothi Aniko",
+            "number": "419650XXXXXX0102",
+            "productCode": "11979",
+            "productI18N": "Bun de plata BCR Standard Visa",
+            "expiryDate": "2018-12-06",
+            "validFromDate": "2016-12-06",
+            "balance": {
+                "value": 491200,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "limit": {
+                "value": 200000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingAmount": {
+                "value": 1300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 182578,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "installmentDueDate": "2016-11-24",
+            "repaymentRate": 28,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "overDueAmount": {
+                "value": 1300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "201508198282534",
+                "accountno": {
+                    "iban": "RO91RNCB0127007510060010"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "AUTHORIZED",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "419650",
+                "blackBackground": false
+            }
+        },
+        {
+            "id": "2015081907637445",
+            "owner": "Barothi Aniko",
+            "number": "419650XXXXXX1246",
+            "productCode": "11979",
+            "productI18N": "Bun de plata BCR Standard Visa",
+            "expiryDate": "2018-08-31",
+            "validFromDate": "2015-08-20",
+            "balance": {
+                "value": 491200,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "limit": {
+                "value": 200000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingAmount": {
+                "value": 1300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "minimalMonthlyAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "outstandingMonthlyAmount": {
+                "value": 182578,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "installmentDueDate": "2016-11-24",
+            "repaymentRate": 28,
+            "overLimitAmount": {
+                "value": 0,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "overDueAmount": {
+                "value": 1300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "mainAccount": {
+                "id": "201508198282534",
+                "accountno": {
+                    "iban": "RO91RNCB0127007510060010"
+                },
+                "holderName": "Barothi Aniko"
+            },
+            "type": "CREDIT",
+            "provider": "BCR",
+            "state": "ACTIVE",
+            "characteristic": "MAIN",
+            "sequenceNumber": "1",
+            "imageData": {
+                "imageKey": "419650",
+                "blackBackground": false
+            }
+        }
+    ]
 }
