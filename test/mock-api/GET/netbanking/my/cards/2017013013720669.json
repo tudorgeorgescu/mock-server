@@ -1,0 +1,30 @@
+{
+    "balance": {
+        "value": 370349,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "characteristic": "MAIN",
+    "expiryDate": "2019-01-30",
+    "id": "2017013013720669",
+    "imageData": {
+        "imageKey": "421144",
+        "blackBackground": false
+    },
+    "mainAccount": {
+        "id": "200711070034569",
+        "accountno": {
+            "iban": "RO83RNCB0293007510060002"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "number": "421144XXXXXX0500",
+    "owner": "Barothi Aniko",
+    "productCode": "1504",
+    "productI18N": "VISA Clasic EUR",
+    "provider": "BCR",
+    "sequenceNumber": "1",
+    "state": "ACTIVE",
+    "type": "BANK_CARD",
+    "validFromDate": "2017-01-30"
+}
