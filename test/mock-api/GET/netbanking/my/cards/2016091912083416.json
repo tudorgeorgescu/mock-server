@@ -1,0 +1,31 @@
+{
+    "alias": "testalias",
+    "balance": {
+        "value": 186049,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "characteristic": "AUTHORIZED",
+    "expiryDate": "2019-09-30",
+    "id": "2016091912083416",
+    "imageData": {
+        "imageKey": "517045",
+        "blackBackground": false
+    },
+    "mainAccount": {
+        "id": "200710150029578",
+        "accountno": {
+            "iban": "RO13RNCB0293007510060001"
+        },
+        "holderName": "Stamate Alexandru"
+    },
+    "number": "517045XXXXXX1498",
+    "owner": "Stamate Alexandru",
+    "productCode": "12218",
+    "productI18N": "MasterCard Gold",
+    "provider": "BCR",
+    "sequenceNumber": "1",
+    "state": "ACTIVE",
+    "type": "BANK_CARD",
+    "validFromDate": "2016-09-20"
+}
