@@ -1,0 +1,11 @@
+{
+    "id": "9",
+    "authorizationType": "E_DEVICE",
+    "channelId": "CC",
+    "applicationId": "UNKNOWN",
+    "dailyLimit": {
+        "value": 7500000,
+        "precision": 2,
+        "currency": "EUR"
+    }
+}
