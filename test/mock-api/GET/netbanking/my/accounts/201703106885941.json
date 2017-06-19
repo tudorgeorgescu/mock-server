@@ -1,0 +1,46 @@
+{
+    "id": "201703106885941",
+    "accountno": {
+        "bic": "RNCBROB0",
+        "number": "201703106885941"
+    },
+    "type": "SAVING",
+    "subtype": "TERM_DEPOSIT",
+    "product": "Succes BCR",
+    "productI18N": "MaxiPlus - 24M Term Deposit - Click and Alo",
+    "description": "BAROTHI ANIKO",
+    "balance": {
+        "value": 50000,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "disposable": {
+        "value": 50000,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "creditInterestRate": 0.9,
+    "debitInterestRate": 0,
+    "saving": {
+        "targetDate": "2019-03-10",
+        "startDate": "2017-03-10",
+        "ro-calculatedInterestToDate": {
+            "value": 105,
+            "precision": 2,
+            "currency": "RON"
+        },
+        "termdeposit": {
+            "termPeriod": 24,
+            "periodicity": "MONTHLY",
+            "remainingProlongations": 1,
+            "interestBooking": "TERM_DEPOSIT"
+        }
+    },
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "directDebitAllowed",
+        "standingOrderNotAllowed"
+    ]
+}
