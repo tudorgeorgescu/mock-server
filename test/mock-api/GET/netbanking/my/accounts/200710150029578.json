@@ -1,0 +1,40 @@
+{
+    "id": "200710150029578",
+    "accountno": {
+        "iban": "RO13RNCB0293007510060001",
+        "bic": "RNCBROB0"
+    },
+    "type": "CURRENT",
+    "subtype": "CURRENT_ACCOUNT",
+    "product": "Current Account",
+    "productI18N": "TotalCont BCR",
+    "description": "BAROTHI ANIKO",
+    "alias": "testalias",
+    "balance": {
+        "value": 69902,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "disposable": {
+        "value": 69902,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "creditInterestRate": 0,
+    "debitInterestRate": 0,
+    "ro-totalBlockedAmounts": {
+        "value": 1161,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "ownTransferAllowed",
+        "domesticTransferAllowed",
+        "internationalTransferAllowed",
+        "urgentTransferAllowed",
+        "directDebitAllowed"
+    ]
+}
