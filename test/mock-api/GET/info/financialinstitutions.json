@@ -1,3 +1,219 @@
 {
-  "answer": "Hello Financial institutions!"
+    "banks": [
+        {
+            "bic": "BACXROB0",
+            "bankCode": "BACX",
+            "name": "UniCredit Tiriac Bank S.A."
+        },
+        {
+            "bic": "DAFBRO20",
+            "bankCode": "DAFB",
+            "name": "BANK LEUMI ROMANIA S.A."
+        },
+        {
+            "bic": "BPOSROB0",
+            "bankCode": "BPOS",
+            "name": "BANCPOST S.A."
+        },
+        {
+            "bic": "EXIMROB0",
+            "bankCode": "EXIM",
+            "name": "BANCA DE EX.IMP. A ROMANIEI (EXIMBANK)"
+        },
+        {
+            "bic": "BRMAROB0",
+            "bankCode": "BRMA",
+            "name": "BANCA ROMANEASCA S.A."
+        },
+        {
+            "bic": "RNCBROB0",
+            "bankCode": "RNCB",
+            "name": "BANCA COMERCIALA ROMANA S.A."
+        },
+        {
+            "bic": "FNNBROB0",
+            "bankCode": "FNNB",
+            "name": "CREDIT EUROPE BANK (ROMANIA) SA"
+        },
+        {
+            "bic": "BTRLRO20",
+            "bankCode": "BTRL",
+            "name": "BANCA TRANSILVANIA S.A."
+        },
+        {
+            "bic": "CRDZROB0",
+            "bankCode": "CRDZ",
+            "name": "NEXTEBANK S.A."
+        },
+        {
+            "bic": "BUCUROB0",
+            "bankCode": "BUCU",
+            "name": "ALPHA BANK S.A."
+        },
+        {
+            "bic": "PIRBROB0",
+            "bankCode": "PIRB",
+            "name": "PIRAEUS BANK"
+        },
+        {
+            "bic": "OTPVROB0",
+            "bankCode": "OTPV",
+            "name": "OTP BANK  ROMANIA  S.A."
+        },
+        {
+            "bic": "CITIROB0",
+            "bankCode": "CITI",
+            "name": "Citibank Europe plc Dublin Sucursala Romania"
+        },
+        {
+            "bic": "WBANRO20",
+            "bankCode": "WBAN",
+            "name": " BANCA COMERCIALA INTESA SANPAOLO SA"
+        },
+        {
+            "bic": "CECEROB0",
+            "bankCode": "CECE",
+            "name": "CEC BANK"
+        },
+        {
+            "bic": "BSEAROB0",
+            "bankCode": "BSEA",
+            "name": "CREDIT AGRICOLE BANK ROMANIA S.A."
+        },
+        {
+            "bic": "BRELROB0",
+            "bankCode": "BREL",
+            "name": "LIBRA INTERNET BANK SA"
+        },
+        {
+            "bic": "ROINROB0",
+            "bankCode": "ROIN",
+            "name": "IDEEA BANK SA"
+        },
+        {
+            "bic": "EGNAROB0",
+            "bankCode": "EGNA",
+            "name": "MARFIN BANK ROMANIA SA"
+        },
+        {
+            "bic": "CARPRO20",
+            "bankCode": "CARP",
+            "name": "BANCA COMERCIALA CARPATICA"
+        },
+        {
+            "bic": "BLOMROB0",
+            "bankCode": "BLOM",
+            "name": "BLOM BANK FRANCE S.A. PARIS SUCURSALA ROMANIA"
+        },
+        {
+            "bic": "INGBROB0",
+            "bankCode": "INGB",
+            "name": "ING BANK N.V."
+        },
+        {
+            "bic": "BITRROB0",
+            "bankCode": "BITR",
+            "name": "VENETO BANCA SCPA ITALIA MONTEBELLUNA, BUCURESTI"
+        },
+        {
+            "bic": "UGBIROB0",
+            "bankCode": "UGBI",
+            "name": "GARANTI BANK S.A."
+        },
+        {
+            "bic": "TREZROB0",
+            "bankCode": "TREZ",
+            "name": "BANCA TREZORERIEI"
+        },
+        {
+            "bic": "NBORROB0",
+            "bankCode": "NBOR",
+            "name": "BANCA NATIONALA A ROMANIEI"
+        },
+        {
+            "bic": "MIROROB0",
+            "bankCode": "MIRO",
+            "name": "PROCREDIT BANK S.A."
+        },
+        {
+            "bic": "CRCOROB0",
+            "bankCode": "CRCO",
+            "name": "BANCA CENTRALA COOPERATISTA CREDITCOOP"
+        },
+        {
+            "bic": "RZBLROB0",
+            "bankCode": "RZBL",
+            "name": "RAIFFEISEN BANCA PENTRU LOCUINTE S.A."
+        },
+        {
+            "bic": "PORLROB0",
+            "bankCode": "PORL",
+            "name": "PORSCHE BANK ROMANIA S.A."
+        },
+        {
+            "bic": "BCYPROB0",
+            "bankCode": "BCYP",
+            "name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED NICOSIA"
+        },
+        {
+            "bic": "FTSBROB0",
+            "bankCode": "FTSB",
+            "name": "BNP PARIBAS FORTIS SA/NV BRUXELLES SUCURSALA BUCURESTI"
+        },
+        {
+            "bic": "BCRLROB0",
+            "bankCode": "BCRL",
+            "name": "BCR BANCA PENTRU LOCUINTE S.A."
+        },
+        {
+            "bic": "BFERROB0",
+            "bankCode": "BFER",
+            "name": "Banca Comerciala Feroviara SA"
+        },
+        {
+            "bic": "DECNROB0",
+            "bankCode": "DECN",
+            "name": "Depozitarul Central S.A."
+        },
+        {
+            "bic": "TBIBROB0",
+            "bankCode": "TBIB",
+            "name": "TBI BANK EAD SOFIA - SUCURSALA BUCURESTI"
+        },
+        {
+            "bic": "TRPDGB20",
+            "bankCode": "TRPD",
+            "name": "TRANSFER RAPID LTD"
+        },
+        {
+            "bic": "SSRRROB0",
+            "bankCode": "SSRR",
+            "name": "SC SMITH AND SMITH SRL"
+        },
+        {
+            "bic": "UNCRBGS0",
+            "bankCode": "UNCR",
+            "name": "UniCredit Bulbank Sofia"
+        },
+        {
+            "bic": "ESSEDKKK",
+            "bankCode": "ESSE",
+            "name": "SKANDINAVISKA ENSKILDA BANKEN"
+        },
+        {
+            "bic": "RZBRROB0",
+            "bankCode": "RZBR",
+            "name": "RAIFFEISEN BANK"
+        },
+        {
+            "bic": "BRDEROB0",
+            "bankCode": "BRDE",
+            "name": "BANCA ROMANA DE DEZVOLTARE S.A."
+        },
+        {
+            "bic": "MINDROB0",
+            "bankCode": "MIND",
+            "name": "BANCA ROMANA DE CREDIT SI INVESTITII S.A."
+        }
+    ]
 }
