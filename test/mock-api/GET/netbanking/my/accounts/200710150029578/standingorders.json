@@ -1,0 +1,145 @@
+{
+    "pageCount": 1,
+    "pageNumber": 0,
+    "pageSize": 6,
+    "standingOrders": [
+        {
+            "number": "51341822",
+            "status": "DELETED",
+            "amount": {
+                "value": 3700,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "UNKNOWN",
+            "channelId": "GHISEU",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2013-11-18",
+            "nextExecutionDate": "2013-11-20",
+            "paymentReference": "/AA035A236/2951019141834/BAROTHI JOHANNA",
+            "receiver": {
+                "iban": "RO85RNCB0002B00054163732"
+            },
+            "receiverName": "CENTRALA-Directia Back- Office",
+            "startDate": "2008-10-28T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        },
+        {
+            "number": "51341823",
+            "status": "DELETED",
+            "amount": {
+                "value": 2300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "UNKNOWN",
+            "channelId": "GHISEU",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2013-09-22",
+            "nextExecutionDate": "2013-10-20",
+            "paymentReference": "/AA016K437/2710720142051/BAROTHI ANIKO",
+            "receiver": {
+                "iban": "RO85RNCB0002B00054163732"
+            },
+            "receiverName": "CENTRALA-Directia Back- Office",
+            "startDate": "2008-10-28T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        },
+        {
+            "number": "118376352",
+            "status": "OK",
+            "amount": {
+                "value": 1500,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "NETBK",
+            "channelId": "NETBK",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2017-12-14",
+            "nextExecutionDate": "2017-02-06",
+            "paymentReference": "plata STO",
+            "receiver": {
+                "iban": "RO88RNCB0278000389700002"
+            },
+            "receiverName": "MISU DUMITRU",
+            "startDate": "2016-12-05T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        },
+        {
+            "number": "51341822",
+            "status": "DELETED",
+            "amount": {
+                "value": 3700,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "UNKNOWN",
+            "channelId": "GHISEU",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2013-11-18",
+            "nextExecutionDate": "2013-11-20",
+            "paymentReference": "/AA035A236/2951019141834/BAROTHI JOHANNA",
+            "receiver": {
+                "iban": "RO85RNCB0002B00054163732"
+            },
+            "receiverName": "CENTRALA-Directia Back- Office",
+            "startDate": "2008-10-28T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        },
+        {
+            "number": "51341823",
+            "status": "DELETED",
+            "amount": {
+                "value": 2300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "UNKNOWN",
+            "channelId": "GHISEU",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2013-09-22",
+            "nextExecutionDate": "2013-10-20",
+            "paymentReference": "/AA016K437/2710720142051/BAROTHI ANIKO",
+            "receiver": {
+                "iban": "RO85RNCB0002B00054163732"
+            },
+            "receiverName": "CENTRALA-Directia Back- Office",
+            "startDate": "2008-10-28T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        },
+        {
+            "number": "118376352",
+            "status": "OK",
+            "amount": {
+                "value": 1500,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "applicationId": "NETBK",
+            "channelId": "NETBK",
+            "executionDueMode": "DUE_DAY_OF_MONTH",
+            "executionInterval": "MONTHLY",
+            "executionMode": "UNTIL_DATE",
+            "lastExecutionDate": "2017-12-14",
+            "nextExecutionDate": "2017-02-06",
+            "paymentReference": "plata STO",
+            "receiver": {
+                "iban": "RO88RNCB0278000389700002"
+            },
+            "receiverName": "MISU DUMITRU",
+            "startDate": "2016-12-05T01:00:00+0100",
+            "type": "STANDING_ORDER"
+        }
+    ]
+}
