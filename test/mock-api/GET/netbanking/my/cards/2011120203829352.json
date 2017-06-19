@@ -1,0 +1,62 @@
+{
+    "balance": {
+        "value": -138525,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "characteristic": "MAIN",
+    "expiryDate": "2018-07-31",
+    "id": "2011120203829352",
+    "imageData": {
+        "imageKey": "510160",
+        "blackBackground": false
+    },
+    "installmentDueDate": "2016-11-24",
+    "limit": {
+        "value": 140000,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "mainAccount": {
+        "id": "201112023928984",
+        "accountno": {
+            "iban": "RO19RNCB0318007510060001"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "minimalMonthlyAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "number": "510160XXXXXX1132",
+    "outstandingAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "outstandingMonthlyAmount": {
+        "value": 133195,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "overDueAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "overLimitAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "owner": "Barothi Aniko",
+    "productCode": "12025",
+    "productI18N": "Bun de Plata BCR Standard MasterCard",
+    "provider": "BCR",
+    "repaymentRate": 12.19,
+    "sequenceNumber": "1",
+    "state": "ACTIVE",
+    "type": "CREDIT",
+    "validFromDate": "2013-07-02"
+}
