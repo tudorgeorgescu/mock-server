@@ -1,0 +1,34 @@
+{
+  "merchantInstallments": [
+    {
+      "totalAmount": {
+        "value": 5000,
+        "precision": 2,
+        "currency": "RON"
+      },
+      "installmentAmount": {
+        "value": 1000,
+        "precision": 2,
+        "currency": "RON"
+      },
+      "totalInstallmentsNumber": 0,
+      "instalmentsCurrentNo": 0,
+      "purchaseDate": "2016-10-24+0200"
+    },
+    {
+      "totalAmount": {
+        "value": 5000,
+        "precision": 2,
+        "currency": "RON"
+      },
+      "installmentAmount": {
+        "value": 1000,
+        "precision": 2,
+        "currency": "RON"
+      },
+      "totalInstallmentsNumber": 0,
+      "instalmentsCurrentNo": 0,
+      "purchaseDate": "2016-10-12+0200"
+    }
+  ]
+}
