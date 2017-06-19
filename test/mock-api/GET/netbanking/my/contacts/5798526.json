@@ -1,0 +1,26 @@
+{
+    "id": "5798526",
+    "address": {
+        "type": "SECONDARY_RESIDENCE",
+        "street": "Maslinului8",
+        "streetNumber": "379",
+        "buildingApartment": "3",
+        "postBox": "A87",
+        "zipCode": "527065",
+        "city": "CONSTANTIN DAICOVICIU",
+        "country": "RO",
+        "flags": [
+            "mailingAddress"
+        ],
+        "ro-streetType": "Fundacul",
+        "ro-county": "CARAS-SEVERIN",
+        "ro-buildingName": "3",
+        "ro-stair": "A87",
+        "ro-floor": "4",
+        "ro-apartment": "2"
+    },
+    "flags": [
+        "editable"
+    ],
+    "type": "ADDRESS"
+}
