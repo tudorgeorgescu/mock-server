@@ -1,0 +1,62 @@
+{
+    "balance": {
+        "value": 491200,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "characteristic": "AUTHORIZED",
+    "expiryDate": "2018-12-06",
+    "id": "2016120613066868",
+    "imageData": {
+        "imageKey": "419650",
+        "blackBackground": false
+    },
+    "installmentDueDate": "2016-11-24",
+    "limit": {
+        "value": 200000,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "mainAccount": {
+        "id": "201508198282534",
+        "accountno": {
+            "iban": "RO91RNCB0127007510060010"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "minimalMonthlyAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "number": "419650XXXXXX0102",
+    "outstandingAmount": {
+        "value": 1300,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "outstandingMonthlyAmount": {
+        "value": 182578,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "overDueAmount": {
+        "value": 1300,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "overLimitAmount": {
+        "value": 0,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "owner": "Barothi Aniko",
+    "productCode": "11979",
+    "productI18N": "Bun de plata BCR Standard Visa",
+    "provider": "BCR",
+    "repaymentRate": 28,
+    "sequenceNumber": "1",
+    "state": "ACTIVE",
+    "type": "CREDIT",
+    "validFromDate": "2016-12-06"
+}
