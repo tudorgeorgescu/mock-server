@@ -1,0 +1,994 @@
+{
+    "nextPage": 1,
+    "pageCount": 3,
+    "pageNumber": 0,
+    "pageSize": 20,
+    "orders": [
+        {
+            "id": "2017032100060337",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO83RNCB0293007510060002"
+            },
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "receiverName": "",
+            "amount": {
+                "value": 1234,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-21",
+            "executionDate": "2017-03-21T01:00:00+0100",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1490108941024",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 66,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 11,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2017032900061419",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO84RNCB0087007510060002"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO42RNCB0591007510060002"
+            },
+            "receiverName": "SomeOne Better",
+            "amount": {
+                "value": 12300,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-29",
+            "executionDate": "2017-03-29T02:00:00+0200",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "05336b8d51d748f4a40b8b5de4c7fb37ba2b95441490813933577",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "3299",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2017032700060846",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO29RNCB0004007510060001"
+            },
+            "senderName": "TEST Domestic",
+            "receiver": {
+                "iban": "RO35BTRLRONCRT0239796801"
+            },
+            "receiverName": "receiverName",
+            "amount": {
+                "value": 1211,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-31",
+            "executionDate": "2017-03-27T02:00:00+0200",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "b3b2769313fd81b426ff22cafbf071af99b8da921490621221217",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2017032800060974",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO83RNCB0293007510060002"
+            },
+            "receiver": {
+                "iban": "RO30RNCB0087007510060004"
+            },
+            "receiverName": "",
+            "amount": {
+                "value": 1300,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "transferDate": "2017-03-27",
+            "executionDate": "2017-03-28T02:00:00+0200",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1489731619666",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "EUR"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2017032700060839",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO83RNCB0293007510060002"
+            },
+            "receiver": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "receiverName": "",
+            "amount": {
+                "value": 1200,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "transferDate": "2017-03-27",
+            "executionDate": "2017-03-27T02:00:00+0200",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1489731619666",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "EUR"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2017032200060413",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "CLOSED",
+            "stateDetail": "ABG",
+            "stateOk": false,
+            "sender": {
+                "iban": "RO83RNCB0293007510060002"
+            },
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "receiverName": "",
+            "amount": {
+                "value": 10199,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-22",
+            "executionDate": "2017-03-22T01:00:00+0100",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "signInfo": {
+                "state": "DONE",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1490180977653",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 66,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 11,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2cd56976-d988-48e7-9169-94325b9ce742",
+            "orderCategory": "DOMESTIC",
+            "orderForm": "BILL_PAYMENT",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "TEST Domestic",
+            "receiver": {
+                "iban": "RO49BACX0000000011023000",
+                "bankCode": "bankCode",
+                "number": "number",
+                "countryCode": "RO"
+            },
+            "receiverName": "receiverName",
+            "amount": {
+                "value": 14423,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-23",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "b3b2769313fd81b426ff22cafbf071af99b8da921490280434974",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2475211d-1df5-47b1-a22b-2cea85954b9c",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "TEST Domestic",
+            "receiver": {
+                "iban": "RO35BTRLRONCRT0239796801",
+                "bankCode": "bankCode",
+                "number": "number",
+                "countryCode": "RO"
+            },
+            "receiverName": "receiverName",
+            "amount": {
+                "value": 1001,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-04-27",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "d50fbc40277df27508413c226a7fa599ded0c2381493305375518",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "db5a05c4-802a-4b4d-9256-224728781c44",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO29RNCB0004007510060001"
+            },
+            "senderName": "TEST Domestic",
+            "receiver": {
+                "iban": "RO35BTRLRONCRT0239796801",
+                "bankCode": "bankCode",
+                "number": "number",
+                "countryCode": "RO"
+            },
+            "receiverName": "Beneficiar",
+            "amount": {
+                "value": 1221,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-28",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "5d182f317742ed11bbb6e647323c9a9bcf0c50791490687559871",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "aac0167a-4cb6-4b06-a158-5c7a185cd963",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO11RNCB0318048562560001"
+            },
+            "receiverName": "Some One 2",
+            "amount": {
+                "value": 1234,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-23",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490265184774",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4265949d-5073-4f78-8467-f6827fdd94df",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO11RNCB0318048562560001"
+            },
+            "receiverName": "Some One 3",
+            "amount": {
+                "value": 991122,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-23",
+            "additionalInfo": {
+                "paymentReference": "text over text ver text1"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490265212078",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2a17858a-a675-4ef1-bbf3-c789ed54144a",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO27RNCB0318000374580001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "amount": {
+                "value": 222255,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-23",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490266503017",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ee76b17b-d3e5-4292-b0ee-af333ce98293",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO27RNCB0318000374580001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "amount": {
+                "value": 412121,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-29",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490267549137",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ac788df0-3584-40df-95d2-598ba5c49d2e",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO27RNCB0318000374580001"
+            },
+            "senderName": "ANDREI D",
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "receiverName": "ANDRA D",
+            "amount": {
+                "value": 4000000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-22",
+            "additionalInfo": {
+                "paymentReference": "ANDRA test"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1490261889612",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6ad8495d-b015-4178-8a8d-08e4532b86d0",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO11RNCB0318048562560001"
+            },
+            "receiverName": "Some One 2",
+            "amount": {
+                "value": 7777,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490262688703",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "fb867485-b574-479c-9347-7a721b5da06a",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO27RNCB0318000374580001"
+            },
+            "senderName": "ANDREI D",
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "receiverName": "ANDRA D",
+            "amount": {
+                "value": 4000000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-22",
+            "additionalInfo": {
+                "paymentReference": "ANDRA test"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1490276864520",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "e4333c9f-41f0-4bfd-866d-b2ba002afb21",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO11RNCB0318048562560001"
+            },
+            "receiverName": "Some One 2",
+            "amount": {
+                "value": 7777,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-23",
+            "additionalInfo": {
+                "paymentReference": "end to end maybe!?"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490264459107",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1852",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ed091b4e-26fb-4fd9-ab2a-551cb69736d0",
+            "orderCategory": "DOMESTIC",
+            "orderForm": "BILL_PAYMENT",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PLATA TEST ZZECIMALE",
+            "receiver": {
+                "iban": "RO18INGB0000999903042604"
+            },
+            "receiverName": "ARIANA D.",
+            "amount": {
+                "value": 10999,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-17",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "ebfd92c620402acd8b6fdcb954c4d8af4f256a3c1490270287655",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "d714072f-f0d7-4de9-9ebc-875777c13374",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO13RNCB0293007510060001"
+            },
+            "senderName": "PANTILIMON EDUARD SORIN",
+            "receiver": {
+                "iban": "RO42RNCB0591007510060002"
+            },
+            "amount": {
+                "value": 3333,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-03-01",
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "6d91b517c04bc6177132eef3f3fc2cfd57e880121490274481549",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 0,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "3299",
+                        "descriptionI18N": "BCR Commission"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "a439b921-6940-4ad5-8ecf-b359509b2a44",
+            "orderCategory": "DOMESTIC",
+            "orderType": "PAYMENT_OUT",
+            "state": "OPEN",
+            "stateDetail": "OPN",
+            "stateOk": true,
+            "sender": {
+                "iban": "RO29RNCB0004007510060001"
+            },
+            "senderName": "TEST Domestic",
+            "receiver": {
+                "iban": "RO35BTRLRONCRT0239796801",
+                "bankCode": "bankCode",
+                "number": "number",
+                "countryCode": "RO"
+            },
+            "receiverName": "receiverName",
+            "amount": {
+                "value": 1011,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "transferDate": "2017-04-01",
+            "additionalInfo": {
+                "paymentReference": "paymentReference"
+            },
+            "channelId": "GEORGE",
+            "applicationId": "GEORGE",
+            "flags": [
+                "editable",
+                "deletable"
+            ],
+            "signInfo": {
+                "state": "OPEN",
+                "signId": "b3b2769313fd81b426ff22cafbf071af99b8da921490620040495",
+                "fees": [
+                    {
+                        "fee": {
+                            "value": 300,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1853",
+                        "descriptionI18N": "BCR Commission"
+                    },
+                    {
+                        "fee": {
+                            "value": 51,
+                            "precision": 2,
+                            "currency": "RON"
+                        },
+                        "type": "1090",
+                        "descriptionI18N": "BNR Commission"
+                    }
+                ]
+            }
+        }
+    ]
+}
