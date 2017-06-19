@@ -1,0 +1,30 @@
+{
+    "balance": {
+        "value": 134063,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "characteristic": "MAIN",
+    "expiryDate": "2019-01-03",
+    "id": "2017010313408356",
+    "imageData": {
+        "imageKey": "null",
+        "blackBackground": false
+    },
+    "mainAccount": {
+        "id": "201701036450505",
+        "accountno": {
+            "iban": "RO42RNCB0591007510060002"
+        },
+        "holderName": "Barothi Aniko"
+    },
+    "number": "546805XXXXXX0888",
+    "owner": "Barothi Aniko",
+    "productCode": "12217",
+    "productI18N": "MasterCard Paypass Zambet",
+    "provider": "BCR",
+    "sequenceNumber": "1",
+    "state": "ACTIVE",
+    "type": "BANK_CARD",
+    "validFromDate": "2017-01-03"
+}
