@@ -1,0 +1,20 @@
+{
+    "id": "694301",
+    "address": {
+        "type": "PERMANENT_RESIDENCE",
+        "street": "-",
+        "streetNumber": "379",
+        "buildingApartment": "3",
+        "zipCode": "527065",
+        "city": "CATALINA",
+        "country": "RO",
+        "flags": [
+            "mainContact"
+        ],
+        "ro-streetType": "Strada",
+        "ro-county": "COVASNA",
+        "ro-buildingName": "3",
+        "ro-apartment": "2"
+    },
+    "type": "ADDRESS"
+}
