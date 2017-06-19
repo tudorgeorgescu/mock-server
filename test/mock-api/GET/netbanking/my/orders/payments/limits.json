@@ -1,0 +1,34 @@
+{
+    "remainingLimits": [
+        {
+            "authorizationType": "E_DEVICE",
+            "channelId": "NETBK",
+            "applicationId": "UNKNOWN",
+            "remainingAmount": {
+                "value": 15000000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        },
+        {
+            "authorizationType": "E_DEVICE",
+            "channelId": "CC",
+            "applicationId": "UNKNOWN",
+            "remainingAmount": {
+                "value": 7500000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        },
+        {
+            "authorizationType": "E_DEVICE",
+            "channelId": "GEORGE",
+            "applicationId": "UNKNOWN",
+            "remainingAmount": {
+                "value": 15000000,
+                "precision": 2,
+                "currency": "EUR"
+            }
+        }
+    ]
+}
