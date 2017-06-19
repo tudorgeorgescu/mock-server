@@ -1,0 +1,11 @@
+{
+    "id": "12",
+    "authorizationType": "E_DEVICE",
+    "channelId": "NETBK",
+    "applicationId": "UNKNOWN",
+    "dailyLimit": {
+        "value": 15000000,
+        "precision": 2,
+        "currency": "EUR"
+    }
+}
