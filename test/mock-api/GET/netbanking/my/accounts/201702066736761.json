@@ -1,0 +1,51 @@
+{
+    "id": "201702066736761",
+    "accountno": {
+        "iban": "RO26RNCB0127007510060016",
+        "bic": "RNCBROB0"
+    },
+    "type": "SAVING",
+    "subtype": "SAVING_ACCOUNT",
+    "product": "Maxicont BCR",
+    "productI18N": "Call deposit",
+    "description": "BAROTHI ANIKO",
+    "alias": "TEST ALIAS",
+    "balance": {
+        "value": 52500,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "disposable": {
+        "value": 52500,
+        "precision": 2,
+        "currency": "EUR"
+    },
+    "creditInterestRate": 0.05,
+    "debitInterestRate": 0,
+    "saving": {
+        "minimumBalance": {
+            "value": 25000,
+            "precision": 2,
+            "currency": "EUR"
+        },
+        "ro-calculatedInterestToDate": {
+            "value": 10,
+            "precision": 2,
+            "currency": "EUR"
+        },
+        "ro-accountForPrincipal": {
+            "iban": "RO83RNCB0293007510060002"
+        },
+        "ro-accountForInterest": {
+            "iban": "RO26RNCB0127007510060016"
+        }
+    },
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "ownTransferAllowed",
+        "directDebitAllowed",
+        "standingOrderNotAllowed"
+    ]
+}
