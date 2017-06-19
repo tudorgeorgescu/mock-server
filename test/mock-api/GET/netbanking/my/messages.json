@@ -1,3 +1,35 @@
 {
-  "answer": "Hello Messages!"
+    "pageCount": 1,
+    "pageNumber": 0,
+    "pageSize": 2,
+    "messages": [
+        {
+            "id": "2009052900000223",
+            "from": "asdasd",
+            "subject": "Marketing MEssage",
+            "date": "2009-05-29T02:00:00+0200",
+            "body": "<img src=\" https://www.24banking.ro/content/966358f4/-d5c0-492a-9dcc-217d934387af/itransfer_vacanta_affluent_480px.png\"/>\n\nVisati sa mergeti in vacanta si nu stiti de unde sa incepeti? Urmati pasii de mai jos si aflati cum puteti sa va platiti rapid vacanta.</b>\n<br>\n<br>  \nPas 1: Alegeti oferta potrivita pentru vacanta dumneavoastra si rezervati-o pe unul din <a href=\"https://www.24banking.ro/ro/internet-banking/beneficii/plata-in-magazine-online\" target=\"_blank\"> site-urile noastre partenere.</a> \n<br> Pas 2: Selectati optiunea plata pentru iTransfer – <b>Click 24 Banking BCR</b>.\n<br> Pas 3: Finalizati plata in contul dumneavoastra prin Click 24 Banking BCR si comanda va fi procesata imediat.\n<br>\n<br> \nPlata prin iTransfer va garanteaza siguranta oferita de serviciul de Internet Banking BCR. Ramane doar  sa va  pregatiti vacanta alaturi de cei dragi.\n<br> \n<br> Pentru mai multe detalii, va invitam pe <a href=\"https://www.24banking.ro/iTransfer\" target=\"_blank\">www.24banking.ro/iTransfer</a>.\n<br>\n<br> \nVacanta placuta!\n<br>\nEchipa ONE BCR",
+            "attachments": [
+                {
+                    "id": "2009052900000073",
+                    "fileName": "f1.txt"
+                },
+                {
+                    "id": "2009052900000074",
+                    "fileName": "f2.txt"
+                },
+                {
+                    "id": "2009052900000075",
+                    "fileName": "f3.txt"
+                }
+            ]
+        },
+        {
+            "id": "2009060200000310",
+            "from": "Marketing",
+            "subject": "Marketing Message",
+            "date": "2009-06-02T02:00:00+0200",
+            "body": "<img src=\" https://www.24banking.ro/content/966358f4/-d5c0-492a-9dcc-217d934387af/itransfer_vacanta_affluent_480px.png\"/>\n\nVisati sa mergeti in vacanta si nu stiti de unde sa incepeti? Urmati pasii de mai jos si aflati cum puteti sa va platiti rapid vacanta.</b>\n<br>\n<br>  \nPas 1: Alegeti oferta potrivita pentru vacanta dumneavoastra si rezervati-o pe unul din <a href=\"https://www.24banking.ro/ro/internet-banking/beneficii/plata-in-magazine-online\" target=\"_blank\"> site-urile noastre partenere.</a> \n<br> Pas 2: Selectati optiunea plata pentru iTransfer – <b>Click 24 Banking BCR</b>.\n<br> Pas 3: Finalizati plata in contul dumneavoastra prin Click 24 Banking BCR si comanda va fi procesata imediat.\n<br>\n<br> \nPlata prin iTransfer va garanteaza siguranta oferita de serviciul de Internet Banking BCR. Ramane doar  sa va  pregatiti vacanta alaturi de cei dragi.\n<br> \n<br> Pentru mai multe detalii, va invitam pe <a href=\"https://www.24banking.ro/iTransfer\" target=\"_blank\">www.24banking.ro/iTransfer</a>.\n<br>\n<br> \nVacanta placuta!\n<br>\nEchipa ONE BCR"
+        }
+    ]
 }
