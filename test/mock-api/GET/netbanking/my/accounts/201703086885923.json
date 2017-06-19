@@ -1,0 +1,34 @@
+{
+    "id": "201703086885923",
+    "accountno": {
+        "iban": "RO30RNCB0087007510060004",
+        "bic": "RNCBROB0"
+    },
+    "type": "CURRENT",
+    "subtype": "CURRENT_ACCOUNT",
+    "product": "Current Account",
+    "productI18N": "Current Account",
+    "description": "BAROTHI ANIKO",
+    "balance": {
+        "value": 0,
+        "precision": 2,
+        "currency": "CHF"
+    },
+    "disposable": {
+        "value": 0,
+        "precision": 2,
+        "currency": "CHF"
+    },
+    "creditInterestRate": 0,
+    "debitInterestRate": 0,
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "ownTransferAllowed",
+        "domesticTransferAllowed",
+        "internationalTransferAllowed",
+        "urgentTransferAllowed",
+        "directDebitAllowed"
+    ]
+}
