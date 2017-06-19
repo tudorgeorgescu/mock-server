@@ -1,0 +1,56 @@
+{
+    "id": "201508198274157",
+    "accountno": {
+        "bic": "RNCBROB0",
+        "number": "201508198274157"
+    },
+    "type": "LOAN",
+    "subtype": "LOAN_ACCOUNT",
+    "product": "Divers Extra",
+    "productI18N": "DIVERS - RON",
+    "description": "BAROTHI ANIKO",
+    "balance": {
+        "value": 4004229,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "disposable": {
+        "value": 4004229,
+        "precision": 2,
+        "currency": "RON"
+    },
+    "creditInterestRate": 0,
+    "debitInterestRate": 9,
+    "loan": {
+        "loanAmount": {
+            "value": 4181710,
+            "precision": 2,
+            "currency": "RON"
+        },
+        "maturityDate": "2025-08-18",
+        "remainingLoanAmount": {
+            "value": 4004229,
+            "precision": 2,
+            "currency": "RON"
+        },
+        "nextRateAmount": {
+            "value": 57990,
+            "precision": 2,
+            "currency": "RON"
+        },
+        "installmentFrequency": "MONTHLY",
+        "nextRateDate": "2017-07-18",
+        "interestRateToDate": "2017-07-18",
+        "overdueDebt": {
+            "value": 0,
+            "precision": 2,
+            "currency": "RON"
+        }
+    },
+    "flags": [
+        "accountQueryAllowed",
+        "electronicStatementAllowed",
+        "owner",
+        "standingOrderNotAllowed"
+    ]
+}
