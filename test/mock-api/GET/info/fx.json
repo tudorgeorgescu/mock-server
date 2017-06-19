@@ -1,3 +1,247 @@
 {
-  "answer": "Hello FX!"
+    "instituteId": 785,
+    "lastUpdated": "2017-06-19T10:30:09+0200",
+    "fx": [
+        {
+            "currency": "GBP",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Pound Sterling",
+            "exchangeRate": {
+                "buy": 5.38,
+                "sell": 5.09,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed",
+                "tradingProhibited"
+            ]
+        },
+        {
+            "currency": "HUF",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Forint",
+            "exchangeRate": {
+                "buy": 0.0155,
+                "sell": 0.0143,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "BGN",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Bulgarian Lev",
+            "exchangeRate": {
+                "buy": 2.429,
+                "sell": 2.255,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "RUB",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Russian Ruble",
+            "exchangeRate": {
+                "buy": 0.078,
+                "sell": 0.063,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "AUD",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Australian Dollar",
+            "exchangeRate": {
+                "buy": 3.227,
+                "sell": 3.017,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "CAD",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Canadian Dollar",
+            "exchangeRate": {
+                "buy": 3.195,
+                "sell": 2.985,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "CHF",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Swiss Franc",
+            "exchangeRate": {
+                "buy": 4.293,
+                "sell": 4.123,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "CZK",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Czech Koruna",
+            "exchangeRate": {
+                "buy": 0.182,
+                "sell": 0.169,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "DKK",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Danish Krone",
+            "exchangeRate": {
+                "buy": 0.637,
+                "sell": 0.596,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "EUR",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Euro",
+            "exchangeRate": {
+                "buy": 4.659,
+                "sell": 4.504,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "JPY",
+            "precision": 0,
+            "rateUnit": 1,
+            "nameI18N": "Yen",
+            "exchangeRate": {
+                "buy": 0.039,
+                "sell": 0.035,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "NOK",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Norwegian Krone",
+            "exchangeRate": {
+                "buy": 0.502,
+                "sell": 0.466,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "PLN",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Zloty",
+            "exchangeRate": {
+                "buy": 1.129,
+                "sell": 1.047,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "SEK",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "Swedish Krona",
+            "exchangeRate": {
+                "buy": 0.489,
+                "sell": 0.454,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        },
+        {
+            "currency": "USD",
+            "precision": 2,
+            "rateUnit": 1,
+            "nameI18N": "US Dollar",
+            "exchangeRate": {
+                "buy": 4.23,
+                "sell": 3.96,
+                "lastModified": "2017-06-19T02:00:00+0200"
+            },
+            "flags": [
+                "provided",
+                "internationalPaymentAllowed",
+                "intraBankPaymentAllowed"
+            ]
+        }
+    ]
 }
