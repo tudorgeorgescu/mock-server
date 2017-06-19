@@ -1,3 +1,683 @@
 {
-  "answer": "Hello Accounts for test!"
+    "pageCount": 1,
+    "pageNumber": 0,
+    "pageSize": 16,
+    "accounts": [
+        {
+            "id": "201703076885916",
+            "accountno": {
+                "iban": "RO84RNCB0087007510060002",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 0,
+                "precision": 2,
+                "currency": "AED"
+            },
+            "disposable": {
+                "value": 0,
+                "precision": 2,
+                "currency": "AED"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201703076885907",
+            "accountno": {
+                "iban": "RO42RNCB0127007510060019",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 10000,
+                "precision": 2,
+                "currency": "CAD"
+            },
+            "disposable": {
+                "value": 10000,
+                "precision": 2,
+                "currency": "CAD"
+            },
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201703086885923",
+            "accountno": {
+                "iban": "RO30RNCB0087007510060004",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 0,
+                "precision": 2,
+                "currency": "CHF"
+            },
+            "disposable": {
+                "value": 0,
+                "precision": 2,
+                "currency": "CHF"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "200711070034569",
+            "accountno": {
+                "iban": "RO83RNCB0293007510060002",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current account ",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 199622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "disposable": {
+                "value": 199622,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "ro-totalBlockedAmounts": {
+                "value": 1707,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201703086885925",
+            "accountno": {
+                "iban": "RO03RNCB0087007510060005",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 2319,
+                "precision": 2,
+                "currency": "GBP"
+            },
+            "disposable": {
+                "value": 2319,
+                "precision": 2,
+                "currency": "GBP"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201703076885903",
+            "accountno": {
+                "iban": "RO96RNCB0127007510060017",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "alias": "test",
+            "balance": {
+                "value": 100000,
+                "precision": 2,
+                "currency": "HUF"
+            },
+            "disposable": {
+                "value": 100000,
+                "precision": 2,
+                "currency": "HUF"
+            },
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201703076885905",
+            "accountno": {
+                "iban": "RO69RNCB0127007510060018",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "Current Account",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 100000,
+                "precision": 2,
+                "currency": "JPY"
+            },
+            "disposable": {
+                "value": 100000,
+                "precision": 2,
+                "currency": "JPY"
+            },
+            "debitInterestRate": 0,
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "200710150029578",
+            "accountno": {
+                "iban": "RO13RNCB0293007510060001",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Current Account",
+            "productI18N": "TotalCont BCR",
+            "description": "BAROTHI ANIKO",
+            "alias": "testalias",
+            "balance": {
+                "value": 69902,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 69902,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "ro-totalBlockedAmounts": {
+                "value": 1161,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201701036450505",
+            "accountno": {
+                "iban": "RO42RNCB0591007510060002",
+                "bic": "RNCBROB0"
+            },
+            "type": "CURRENT",
+            "subtype": "CURRENT_ACCOUNT",
+            "product": "Cont curent IND RON",
+            "productI18N": "ClasiCont BCR",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 88163,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 88163,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 0,
+            "ro-totalBlockedAmounts": {
+                "value": 459,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "domesticTransferAllowed",
+                "internationalTransferAllowed",
+                "urgentTransferAllowed",
+                "directDebitAllowed"
+            ]
+        },
+        {
+            "id": "201702066736761",
+            "accountno": {
+                "iban": "RO26RNCB0127007510060016",
+                "bic": "RNCBROB0"
+            },
+            "type": "SAVING",
+            "subtype": "SAVING_ACCOUNT",
+            "product": "Maxicont BCR",
+            "productI18N": "Call deposit",
+            "description": "BAROTHI ANIKO",
+            "alias": "TEST ALIAS",
+            "balance": {
+                "value": 52500,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "disposable": {
+                "value": 52500,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "creditInterestRate": 0.05,
+            "debitInterestRate": 0,
+            "saving": {
+                "minimumBalance": {
+                    "value": 25000,
+                    "precision": 2,
+                    "currency": "EUR"
+                },
+                "ro-calculatedInterestToDate": {
+                    "value": 10,
+                    "precision": 2,
+                    "currency": "EUR"
+                },
+                "ro-accountForPrincipal": {
+                    "iban": "RO83RNCB0293007510060002"
+                },
+                "ro-accountForInterest": {
+                    "iban": "RO26RNCB0127007510060016"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "directDebitAllowed",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201703096885932",
+            "accountno": {
+                "iban": "RO15RNCB0127007510060020",
+                "bic": "RNCBROB0"
+            },
+            "type": "SAVING",
+            "subtype": "SAVING_ACCOUNT",
+            "product": "Maxicont BCR",
+            "productI18N": "Call deposit",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0.15,
+            "debitInterestRate": 0,
+            "saving": {
+                "minimumBalance": {
+                    "value": 50000,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "ro-calculatedInterestToDate": {
+                    "value": 29,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "ro-accountForPrincipal": {
+                    "iban": "RO13RNCB0293007510060001"
+                },
+                "ro-accountForInterest": {
+                    "iban": "RO15RNCB0127007510060020"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "directDebitAllowed",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201703106885943",
+            "accountno": {
+                "iban": "RO58RNCB0127007510060022",
+                "bic": "RNCBROB0"
+            },
+            "type": "SAVING",
+            "subtype": "SAVING_ACCOUNT",
+            "product": "Maxicont BCR",
+            "productI18N": "Call deposit",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0.15,
+            "debitInterestRate": 0,
+            "saving": {
+                "minimumBalance": {
+                    "value": 50000,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "ro-calculatedInterestToDate": {
+                    "value": 28,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "ro-accountForPrincipal": {
+                    "iban": "RO42RNCB0591007510060002"
+                },
+                "ro-accountForInterest": {
+                    "iban": "RO58RNCB0127007510060022"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "ownTransferAllowed",
+                "directDebitAllowed",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201702066736759",
+            "accountno": {
+                "bic": "RNCBROB0",
+                "number": "201702066736759"
+            },
+            "type": "SAVING",
+            "subtype": "TERM_DEPOSIT",
+            "product": "Succes BCR",
+            "productI18N": "Click and Alo 1 month fixed interest deposit with payment at maturity",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 62500,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 62500,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0.25,
+            "debitInterestRate": 0,
+            "saving": {
+                "targetDate": "2017-03-06",
+                "startDate": "2017-02-06",
+                "ro-calculatedInterestToDate": {
+                    "value": 48,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "termdeposit": {
+                    "termPeriod": 1,
+                    "periodicity": "MONTHLY",
+                    "remainingProlongations": 1,
+                    "interestBooking": "TERM_DEPOSIT"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "directDebitAllowed",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201703106885941",
+            "accountno": {
+                "bic": "RNCBROB0",
+                "number": "201703106885941"
+            },
+            "type": "SAVING",
+            "subtype": "TERM_DEPOSIT",
+            "product": "Succes BCR",
+            "productI18N": "MaxiPlus - 24M Term Deposit - Click and Alo",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 50000,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0.9,
+            "debitInterestRate": 0,
+            "saving": {
+                "targetDate": "2019-03-10",
+                "startDate": "2017-03-10",
+                "ro-calculatedInterestToDate": {
+                    "value": 105,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "termdeposit": {
+                    "termPeriod": 24,
+                    "periodicity": "MONTHLY",
+                    "remainingProlongations": 1,
+                    "interestBooking": "TERM_DEPOSIT"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "directDebitAllowed",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201510279510527",
+            "accountno": {
+                "bic": "RNCBROB0",
+                "number": "201510279510527"
+            },
+            "type": "LOAN",
+            "subtype": "LOAN_ACCOUNT",
+            "product": "MAXICREDIT SUPER BCR",
+            "productI18N": "MAXICREDIT - EUR",
+            "description": "BAROTHI ANIKO",
+            "alias": "Credit de nevperscu ipot",
+            "balance": {
+                "value": 118354,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "disposable": {
+                "value": 118354,
+                "precision": 2,
+                "currency": "EUR"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 5.95,
+            "loan": {
+                "loanAmount": {
+                    "value": 153479,
+                    "precision": 2,
+                    "currency": "EUR"
+                },
+                "maturityDate": "2017-11-06",
+                "remainingLoanAmount": {
+                    "value": 118354,
+                    "precision": 2,
+                    "currency": "EUR"
+                },
+                "nextRateAmount": {
+                    "value": 6543,
+                    "precision": 2,
+                    "currency": "EUR"
+                },
+                "installmentFrequency": "MONTHLY",
+                "nextRateDate": "2017-07-06",
+                "interestRateToDate": "2017-07-06",
+                "overdueDebt": {
+                    "value": 0,
+                    "precision": 2,
+                    "currency": "EUR"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "standingOrderNotAllowed"
+            ]
+        },
+        {
+            "id": "201508198274157",
+            "accountno": {
+                "bic": "RNCBROB0",
+                "number": "201508198274157"
+            },
+            "type": "LOAN",
+            "subtype": "LOAN_ACCOUNT",
+            "product": "Divers Extra",
+            "productI18N": "DIVERS - RON",
+            "description": "BAROTHI ANIKO",
+            "balance": {
+                "value": 4004229,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "disposable": {
+                "value": 4004229,
+                "precision": 2,
+                "currency": "RON"
+            },
+            "creditInterestRate": 0,
+            "debitInterestRate": 9,
+            "loan": {
+                "loanAmount": {
+                    "value": 4181710,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "maturityDate": "2025-08-18",
+                "remainingLoanAmount": {
+                    "value": 4004229,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "nextRateAmount": {
+                    "value": 57990,
+                    "precision": 2,
+                    "currency": "RON"
+                },
+                "installmentFrequency": "MONTHLY",
+                "nextRateDate": "2017-07-18",
+                "interestRateToDate": "2017-07-18",
+                "overdueDebt": {
+                    "value": 0,
+                    "precision": 2,
+                    "currency": "RON"
+                }
+            },
+            "flags": [
+                "accountQueryAllowed",
+                "electronicStatementAllowed",
+                "owner",
+                "standingOrderNotAllowed"
+            ]
+        }
+    ]
 }
