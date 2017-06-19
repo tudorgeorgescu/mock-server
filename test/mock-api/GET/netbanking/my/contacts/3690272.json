@@ -1,0 +1,17 @@
+{
+    "id": "3690272",
+    "flags": [
+        "editable",
+        "deletable"
+    ],
+    "phone": {
+        "type": "PRIVATE",
+        "typeI18N": "Private",
+        "countryCallingCode": "+4",
+        "phoneNumber": "0742851970",
+        "flags": [
+            "mobile"
+        ]
+    },
+    "type": "PHONE"
+}
